@@ -15,7 +15,8 @@ Flutter based food ordering UI design challenge
 
 ![Screenshot_2020_10_01_15_42_26](https://user-images.githubusercontent.com/54774962/94797261-83561c80-03fd-11eb-96c1-ca63eab8fef1.jpg)
 
-##Inspiration
- thanks you jideguru
+## Inspiration
+ 
+ # thanks you jideguru
  
 ![fui-1](https://user-images.githubusercontent.com/54774962/94797403-ad0f4380-03fd-11eb-922e-930c07c6fc35.png)
