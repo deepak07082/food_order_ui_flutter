@@ -1,16 +1,21 @@
 ## food ordering system UI
 
-A new Flutter project.
+Flutter based food ordering UI design challenge
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot_2020_10_01_15_40_34](https://user-images.githubusercontent.com/54774962/94797099-4853e900-03fd-11eb-83f7-b0618bb8cf69.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_2020_10_01_15_40_42](https://user-images.githubusercontent.com/54774962/94797225-75080080-03fd-11eb-8cb5-9c0944051a61.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_2020_10_01_15_41_43](https://user-images.githubusercontent.com/54774962/94797255-80f3c280-03fd-11eb-9aaf-a02dd28cbf92.jpg)
+
+
+![Screenshot_2020_10_01_15_42_26](https://user-images.githubusercontent.com/54774962/94797261-83561c80-03fd-11eb-96c1-ca63eab8fef1.jpg)
+
+##Inspiration
+ thanks you jideguru
+ 
+![fui-1](https://user-images.githubusercontent.com/54774962/94797403-ad0f4380-03fd-11eb-922e-930c07c6fc35.png)
