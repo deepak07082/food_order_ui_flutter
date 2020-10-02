@@ -4,7 +4,7 @@ Flutter based food ordering UI design challenge
 
 ## Demo available on Youtube:
 
-   https://youtu.be/2H-xfCOVsyE
+   https://youtu.be/-M-pBw_j__s
 
 ## Screenshots
 
